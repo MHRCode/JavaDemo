@@ -1,7 +1,5 @@
 package com.java.tasks;
 
-import java.util.Scanner;
-
 public class TaskArray {
 
 	public static void main(String[] args) {

@@ -9,9 +9,9 @@ public class TaskClass10 {
 		
 		//Ask the user to enter an integer and build the following pattern:
 		
-		   Scanner scanner = new Scanner(System.in);
+		   Scanner scan = new Scanner(System.in);
 	        System.out.println("Enter an integer: ");
-	        int n = scanner.nextInt();
+	        int n = scan.nextInt();
 	        
 	        for (int i = 0; i < n; i++) {
 	            // Print spaces
